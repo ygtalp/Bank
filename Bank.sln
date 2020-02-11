@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankForm", "BankForm\BankForm.csproj", "{752DB00A-1966-4FC7-8F57-7BE3C1D68AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankService", "BankService\BankService.csproj", "{76F15292-D839-40DF-983D-122BF3732696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{7238A544-E82C-4826-82AF-FE22CF13A086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{752DB00A-1966-4FC7-8F57-7BE3C1D68AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752DB00A-1966-4FC7-8F57-7BE3C1D68AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752DB00A-1966-4FC7-8F57-7BE3C1D68AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752DB00A-1966-4FC7-8F57-7BE3C1D68AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F15292-D839-40DF-983D-122BF3732696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F15292-D839-40DF-983D-122BF3732696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F15292-D839-40DF-983D-122BF3732696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F15292-D839-40DF-983D-122BF3732696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7238A544-E82C-4826-82AF-FE22CF13A086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7238A544-E82C-4826-82AF-FE22CF13A086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7238A544-E82C-4826-82AF-FE22CF13A086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7238A544-E82C-4826-82AF-FE22CF13A086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
